@@ -6,6 +6,7 @@ public class Practice {
 		// TODO Auto-generated method stub
 		// 프로젝트 추가
 		// 추가 내용
+		// 로그인 추가
 	}
 
 }
